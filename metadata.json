@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Golden 50 - 3-Reel Casino Slot",
+  "description": "Production-grade casino slot machine frontend featuring 3 symbol reels, a dedicated prize reel, 5 paylines, and luxury casino animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
